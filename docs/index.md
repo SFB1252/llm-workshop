@@ -9,8 +9,6 @@ Large Language Models (LLMs) offer new ways for automatic text, speech, and gest
 
 Two important applications of LLMs include using LLMs as tools for linguistic research and using LLMs as cognitive models of language processing. This workshop will focus on using LLMs as tools all the while acknowledging that this requires us to critically consider their cognitive and psycholinguistic plausibility. How can LLMs be used as tools for automatic annotation, text analysis, generation, etc.? What are the cognitive and psycholinguistic implications of LLM-based language processing? What biases do LLMs introduce, and how can we deal with biases in automated linguistic analyses?
 
-We have invited 4 speakers from computational linguistics, psycholinguistics, and digital humanities. They bring in expertise on psycholinguistic evaluation methods (Sam Boeve), transformer limitations and theoretical foundations (Afra Alishahi), reproducibility (Mark Dingemanse), and corpus linguistics (Tatjana Scheffler).
-
 
 ## Important Dates
 - Call for Posters: Open until October 10, 2025
@@ -46,13 +44,6 @@ We invite you for a two-day workshop exploring the applications, challenges, and
 
 This workshop brings together researchers of all career stages to discuss how LLMs can be used as tools for e.g. automatic annotation, text analysis, stimulus generation, while critically considering their cognitive plausibility and inherent biases.
 
-Our invited speakers bring diverse expertise with talks from:
-
-- Prof. Dr. Tatjana Scheffler (Ruhr University Bochum)
-- Prof. Dr. Mark Dingemanse (Radboud University Nijmegen)
-- Dr. Afra Alishahi (Tilburg University)
-- Sam Boeve (University of Ghent)
-
 The workshop is designed with a poster session at the center. We explicitly invite submissions from students and researchers across all career stages. We are also explicitly welcoming posters that present work in progress and new ideas. There will not be a formal review process.
 
 We invite poster submissions on any topic related to the use of LLMs in language and cognitive sciences, including but not limited to:
@@ -71,14 +62,6 @@ This workshop is organized by the **Collaborative Research Center (CRC) 1252 "Pr
 
 We look forward to seeing you!
 
-For any questions, please contact us at: **job.schepens@uni.koeln.de**
-
-Warm regards,
-Dr. Job Schepens, Prof. Dr. Nils Reiter, Dr. Elen Le Foll, Dr. T. Mark Ellison
-SFB 1252 "Prominence in Language"
-University of Cologne
-
-
 
 
 
@@ -90,8 +73,7 @@ Registration is handled through a survey.uni-koeln form.
 
 [Register for the Workshop](https://survey.uni-koeln.de/index.php/612595?lang=en)
 
-### Registration Details
-- **Deadline**: October 31, 2025
+- **Deadline**: October 10, 2025
 - **Fee**: Free (funded by CRC 1252)
 - **Location**: University of Cologne, Seminar Building
 
@@ -138,7 +120,7 @@ If you encounter any issues or need assistance, please contact: job.schepens@uni
 
 - **12:30 - 14:00**: Open End with Snacks & Networking
 
-### About the CRC 1252 "Prominence in Language"
+## About the CRC 1252 "Prominence in Language"
 This workshop is funded by the Collaborative Research Center (CRC) 1252 "Prominence in Language" at the University of Cologne. The CRC investigates how prominence is expressed and processed across different linguistic levels, from phonetics to discourse.
 
 We are committed to creating an inclusive and collaborative environment. If you have any concerns about participation or need additional support to attend, please let us know.
@@ -147,10 +129,6 @@ We are committed to creating an inclusive and collaborative environment. If you 
 
 ## Organizers
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <div style="text-align: center;">
-    <img src="assets/nilsreiter.jpg" alt="Nils Reiter" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-    <p><strong>Nils Reiter</strong><br>University of Cologne</p>
-  </div>
   <div style="text-align: center;">
     <img src="assets/elenlefoll.jpg" alt="Elen Le Foll" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
     <p><strong>Elen Le Foll</strong><br>University of Cologne</p>
@@ -163,5 +141,10 @@ We are committed to creating an inclusive and collaborative environment. If you 
     <img src="assets/markellison.jpg" alt="Mark Ellison" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
     <p><strong>Mark Ellison</strong><br>University of Cologne</p>
   </div>
+  <div style="text-align: center;">
+    <img src="assets/nilsreiter.jpg" alt="Nils Reiter" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
+    <p><strong>Nils Reiter</strong><br>University of Cologne</p>
+  </div>
 </div>
 
+For any questions, please contact us at: **job.schepens@uni.koeln.de**
