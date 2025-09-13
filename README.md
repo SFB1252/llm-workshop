@@ -43,6 +43,8 @@ python -m mkdocs build
 2. Test locally with `mkdocs serve`
 3. Commit and push changes
 4. GitHub Actions will automatically deploy updates
+## Note
+Some of the coding and setup in this project was assisted by AI with human verification and oversight.
 
 ## Contact
 For questions about the workshop: job.schepens@uni.koeln.de
