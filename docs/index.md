@@ -3,6 +3,7 @@
 ![CRC 1252 Logo](assets/Logo_Promince_in_Language.png)
 
 **24–25 November 2025 | University of Cologne**
+
 **A Workshop organised by the SFB/CRC 1252: Prominence in Language**
 
 Large Language Models (LLMs) offer new ways for automatic text, speech, and gesture annotation, analysis, and generation. This two-day workshop brings together researchers of all career stages to explore the practical applications, methodological challenges, and theoretical implications of using LLMs for linguistic research.
