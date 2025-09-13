@@ -1,7 +1,5 @@
 # Afra Alishahi
 
-![Afra Alishahi](../assets/afra.JPG)
-
 Tilburg University
 
 [Homepage](https://afra.alishahi.name/)

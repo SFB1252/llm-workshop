@@ -21,19 +21,19 @@ Two important applications of LLMs include using LLMs as tools for linguistic re
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <div style="text-align: center;">
     <img src="assets/scheffer.jpg" alt="Tatjana Scheffler" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-    <p><strong>Tatjana Scheffler</strong><br>Ruhr University Bochum<br><a href="speakers/tatjana-scheffler/">More Info</a> | <a href="https://tscheffler.github.io/">Homepage</a></p>
+    <p><strong>Tatjana Scheffler</strong><br>Ruhr University Bochum<br><a href="https://tscheffler.github.io/">Homepage</a></p>
   </div>
   <div style="text-align: center;">
     <img src="assets/dingemanse-mark-2020-nobg-gradient.jpg" alt="Mark Dingemanse" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-    <p><strong>Mark Dingemanse</strong><br>Radboud University Nijmegen<br><a href="speakers/mark-dingemanse/">More Info</a> | <a href="https://markdingemanse.net/">Homepage</a></p>
+    <p><strong>Mark Dingemanse</strong><br>Radboud University Nijmegen<br><a href="https://markdingemanse.net/">Homepage</a></p>
   </div>
   <div style="text-align: center;">
     <img src="assets/afra.JPG" alt="Afra Alishahi" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-    <p><strong>Afra Alishahi</strong><br>Tilburg University<br><a href="speakers/afra-alishahi/">More Info</a> | <a href="https://afra.alishahi.name/">Homepage</a></p>
+    <p><strong>Afra Alishahi</strong><br>Tilburg University<br><a href="https://afra.alishahi.name/">Homepage</a></p>
   </div>
   <div style="text-align: center;">
     <img src="assets/Sam-Boeve-1966441941.jpg" alt="Sam Bovee" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-    <p><strong>Sam Bovee</strong><br>University of Ghent<br><a href="speakers/sam-boeve/">More Info</a> | <a href="https://research.ugent.be/web/person/sam-boeve-0/en">Homepage</a></p>
+    <p><strong>Sam Bovee</strong><br>University of Ghent<br><a href="https://research.ugent.be/web/person/sam-boeve-0/en">Homepage</a></p>
   </div>
 </div>
 
@@ -94,11 +94,11 @@ If you encounter any issues or need assistance, please contact: job.schepens@uni
   Organizers
 
 - **14:05 - 14:50**: Talk 1
-  Speaker: <a href="speakers/tatjana-scheffler/">Prof. Dr. Tatjana Scheffler</a> (Ruhr University Bochum)
+  Speaker: <a href="https://tscheffler.github.io/">Prof. Dr. Tatjana Scheffler</a> (Ruhr University Bochum)
   <a href="speakers/tatjana-scheffler/#abstract">Abstract</a> | <a href="https://tscheffler.github.io/">CV</a>
 
 - **14:50 - 15:35**: Talk 2
-  Speaker: <a href="speakers/mark-dingemanse/">Prof. Dr. Mark Dingemanse</a> (Radboud University Nijmegen)
+  Speaker: <a href="https://markdingemanse.net/">Prof. Dr. Mark Dingemanse</a> (Radboud University Nijmegen)
   <a href="speakers/mark-dingemanse/#abstract">Abstract</a> | <a href="https://markdingemanse.net/">CV</a>
 
 - **15:45 - 17:30**: Poster Session & Networking
@@ -110,15 +110,15 @@ If you encounter any issues or need assistance, please contact: job.schepens@uni
 ### Day 2: Tuesday, November 25, 2025
 
 - **09:00 - 09:45**: Talk 3
-  Speaker: <a href="speakers/afra-alishahi/">Dr. Afra Alishahi</a> (Tilburg University)
+  Speaker: <a href="https://afra.alishahi.name/">Dr. Afra Alishahi</a> (Tilburg University)
   <a href="speakers/afra-alishahi/#abstract">Abstract</a> | <a href="https://afra.alishahi.name/">CV</a>
 
 - **09:45 - 10:30**: Talk 4
-  Speaker: <a href="speakers/sam-boeve/">Sam Boeve</a> (University of Ghent)
+  Speaker: <a href="https://research.ugent.be/web/person/sam-boeve-0/en">Sam Boeve</a> (University of Ghent)
   <a href="speakers/sam-boeve/#abstract">Abstract</a> | <a href="https://research.ugent.be/web/person/sam-boeve-0/en">CV</a>
 
 - **11:00 - 12:15**: Panel: Critical Perspectives on Ethics, Bias, and Responsible AI in Linguistics
-  Panelists: <a href="speakers/sam-boeve/">Sam Boeve</a>, <a href="speakers/mark-dingemanse/">Mark Dingemanse</a>, <a href="speakers/tatjana-scheffler/">Tatjana Scheffler</a>, <a href="speakers/afra-alishahi/">Afra Alishahi</a>, <a href="https://elenlefoll.eu/">Elen Le Foll</a> (Moderation)
+  Panelists: <a href="https://research.ugent.be/web/person/sam-boeve-0/en">Sam Boeve</a>, <a href="https://markdingemanse.net/">Mark Dingemanse</a>, <a href="https://tscheffler.github.io/">Tatjana Scheffler</a>, <a href="https://afra.alishahi.name/">Afra Alishahi</a>, <a href="https://elenlefoll.eu/">Elen Le Foll</a> (Moderation)
 
 - **12:15 - 12:30**: Open Discussion with Audience
 
@@ -139,11 +139,11 @@ We are committed to creating an inclusive and collaborative environment. If you 
   </div>
   <div style="text-align: center;">
     <img src="assets/Job-Schepens-2-2527910669.jpg" alt="Job Schepens" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-    <p><strong>Job Schepens</strong><br>University of Cologne</p>
+    <p><strong>Job Schepens</strong><br>University of Cologne<br><a href="https://scholar.google.com/citations?user=4S18kYgAAAAJ&hl=en">Google Scholar</a></p>
   </div>
   <div style="text-align: center;">
     <img src="assets/markellison.jpg" alt="Mark Ellison" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-    <p><strong>Mark Ellison</strong><br>University of Cologne</p>
+    <p><strong>Mark Ellison</strong><br>University of Cologne<br><a href="https://scholar.google.com/citations?user=wemAjQoAAAAJ&hl=en">Google Scholar</a></p>
   </div>
   <div style="text-align: center;">
     <img src="assets/nilsreiter.jpg" alt="Nils Reiter" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">

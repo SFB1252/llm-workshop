@@ -1,7 +1,5 @@
 # Sam Boeve
 
-![Sam Bovee](../assets/Sam-Boeve-1966441941.jpg)
-
 University of Ghent
 
 [Homepage](https://research.ugent.be/web/person/sam-boeve-0/en)

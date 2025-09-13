@@ -1,7 +1,5 @@
 # Mark Dingemanse
 
-![Mark Dingemanse](../assets/dingemanse-mark-2020-nobg-gradient.jpg)
-
 Radboud University Nijmegen
 
 [Homepage](https://markdingemanse.net/)
