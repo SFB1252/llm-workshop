@@ -6,7 +6,9 @@
 
 **A Workshop organised by the SFB/CRC 1252: Prominence in Language**
 
-Large Language Models (LLMs) offer new ways for automatic text, speech, and gesture annotation, analysis, and generation. This two-day workshop brings together researchers of all career stages to explore the practical applications, methodological challenges, and theoretical implications of using LLMs for linguistic research.
+We invite you for a two-day workshop exploring the applications, challenges, and implications of using Large Language Models (LLMs) in linguistic research.
+
+This workshop brings together researchers of all career stages to discuss how LLMs can be used as tools for e.g. automatic annotation, text analysis, stimulus generation, while critically considering their cognitive plausibility and inherent biases.
 
 Two important applications of LLMs include using LLMs as tools for linguistic research and using LLMs as cognitive models of language processing. This workshop will focus on using LLMs as tools all the while acknowledging that this requires us to critically consider their cognitive and psycholinguistic plausibility. How can LLMs be used as tools for automatic annotation, text analysis, generation, etc.? What are the cognitive and psycholinguistic implications of LLM-based language processing? What biases do LLMs introduce, and how can we deal with biases in automated linguistic analyses?
 
@@ -19,19 +21,19 @@ Two important applications of LLMs include using LLMs as tools for linguistic re
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <div style="text-align: center;">
     <img src="assets/scheffer.jpg" alt="Tatjana Scheffler" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-    <p><strong>Tatjana Scheffler</strong><br>Ruhr University Bochum<br><a href="speakers/tatjana-scheffler.html">More Info</a> | <a href="https://tscheffler.github.io/">Homepage</a></p>
+    <p><strong>Tatjana Scheffler</strong><br>Ruhr University Bochum<br><a href="speakers/tatjana-scheffler.md">More Info</a> | <a href="https://tscheffler.github.io/">Homepage</a></p>
   </div>
   <div style="text-align: center;">
     <img src="assets/dingemanse-mark-2020-nobg-gradient.jpg" alt="Mark Dingemanse" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-    <p><strong>Mark Dingemanse</strong><br>Radboud University Nijmegen<br><a href="speakers/mark-dingemanse.html">More Info</a> | <a href="https://markdingemanse.net/">Homepage</a></p>
+    <p><strong>Mark Dingemanse</strong><br>Radboud University Nijmegen<br><a href="speakers/mark-dingemanse.md">More Info</a> | <a href="https://markdingemanse.net/">Homepage</a></p>
   </div>
   <div style="text-align: center;">
     <img src="assets/afra.JPG" alt="Afra Alishahi" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-    <p><strong>Afra Alishahi</strong><br>Tilburg University<br><a href="speakers/afra-alishahi.html">More Info</a> | <a href="https://afra.alishahi.name/">Homepage</a></p>
+    <p><strong>Afra Alishahi</strong><br>Tilburg University<br><a href="speakers/afra-alishahi.md">More Info</a> | <a href="https://afra.alishahi.name/">Homepage</a></p>
   </div>
   <div style="text-align: center;">
-    <img src="assets/Sam-Boeve-1966441941.jpg" alt="Sam Boeve" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-    <p><strong>Sam Boeve</strong><br>University of Ghent<br><a href="speakers/sam-boeve.html">More Info</a> | <a href="https://research.ugent.be/web/person/sam-boeve-0/en">Homepage</a></p>
+    <img src="assets/Sam-Boeve-1966441941.jpg" alt="Sam Bovee" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
+    <p><strong>Sam Bovee</strong><br>University of Ghent<br><a href="speakers/sam-boeve.md">More Info</a> | <a href="https://research.ugent.be/web/person/sam-boeve-0/en">Homepage</a></p>
   </div>
 </div>
 
@@ -41,11 +43,8 @@ Two important applications of LLMs include using LLMs as tools for linguistic re
 **Workshop: Large Language Models for Linguistic Analyses: Applications and Limitations**
 **24–25 November 2025 | University of Cologne**
 
-We invite you for a two-day workshop exploring the applications, challenges, and implications of using Large Language Models (LLMs) in linguistic research.
 
-This workshop brings together researchers of all career stages to discuss how LLMs can be used as tools for e.g. automatic annotation, text analysis, stimulus generation, while critically considering their cognitive plausibility and inherent biases.
-
-The workshop is designed with a poster session at the center. We explicitly invite submissions from students and researchers across all career stages. We are also explicitly welcoming posters that present work in progress and new ideas. There will not be a formal review process.
+The workshop is designed around a central poster session to exchange ideas and discussion. We explicitly invite submissions from students and researchers across all career stages. We are also explicitly welcoming posters that present work in progress and new ideas. There will not be a formal review process.
 
 We invite poster submissions on any topic related to the use of LLMs in language and cognitive sciences, including but not limited to:
 
@@ -95,10 +94,12 @@ If you encounter any issues or need assistance, please contact: job.schepens@uni
   Organizers
 
 - **14:05 - 14:50**: Talk 1
-  Speaker: <a href="speakers/tatjana-scheffler.html">Prof. Dr. Tatjana Scheffler</a> (Ruhr University Bochum)
+  Speaker: <a href="speakers/tatjana-scheffler.md">Prof. Dr. Tatjana Scheffler</a> (Ruhr University Bochum)
+  <a href="speakers/tatjana-scheffler.md#abstract">Abstract</a> | <a href="https://tscheffler.github.io/">CV</a>
 
 - **14:50 - 15:35**: Talk 2
-  Speaker: <a href="speakers/mark-dingemanse.html">Prof. Dr. Mark Dingemanse</a> (Radboud University Nijmegen)
+  Speaker: <a href="speakers/mark-dingemanse.md">Prof. Dr. Mark Dingemanse</a> (Radboud University Nijmegen)
+  <a href="speakers/mark-dingemanse.md#abstract">Abstract</a> | <a href="https://markdingemanse.net/">CV</a>
 
 - **15:45 - 17:30**: Poster Session & Networking
   * Poster Teasers (2-minute presentations)
@@ -109,13 +110,15 @@ If you encounter any issues or need assistance, please contact: job.schepens@uni
 ### Day 2: Tuesday, November 25, 2025
 
 - **09:00 - 09:45**: Talk 3
-  Speaker: <a href="speakers/afra-alishahi.html">Dr. Afra Alishahi</a> (Tilburg University)
+  Speaker: <a href="speakers/afra-alishahi.md">Dr. Afra Alishahi</a> (Tilburg University)
+  <a href="speakers/afra-alishahi.md#abstract">Abstract</a> | <a href="https://afra.alishahi.name/">CV</a>
 
 - **09:45 - 10:30**: Talk 4
-  Speaker: <a href="speakers/sam-boeve.html">Sam Boeve</a> (University of Ghent)
+  Speaker: <a href="speakers/sam-boeve.md">Sam Boeve</a> (University of Ghent)
+  <a href="speakers/sam-boeve.md#abstract">Abstract</a> | <a href="https://research.ugent.be/web/person/sam-boeve-0/en">CV</a>
 
 - **11:00 - 12:15**: Panel: Critical Perspectives on Ethics, Bias, and Responsible AI in Linguistics
-  Panelists: <a href="speakers/sam-boeve.html">Sam Boeve</a>, <a href="speakers/mark-dingemanse.html">Mark Dingemanse</a>, <a href="speakers/tatjana-scheffler.html">Tatjana Scheffler</a>, <a href="speakers/afra-alishahi.html">Afra Alishahi</a>, <a href="https://elenlefoll.eu/">Elen Le Foll</a> (Moderation)
+  Panelists: <a href="speakers/sam-boeve.md">Sam Boeve</a>, <a href="speakers/mark-dingemanse.md">Mark Dingemanse</a>, <a href="speakers/tatjana-scheffler.md">Tatjana Scheffler</a>, <a href="speakers/afra-alishahi.md">Afra Alishahi</a>, <a href="https://elenlefoll.eu/">Elen Le Foll</a> (Moderation)
 
 - **12:15 - 12:30**: Open Discussion with Audience
 
