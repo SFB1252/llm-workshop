@@ -3,6 +3,14 @@ site_description: Workshop on LLMs for linguistic research - 24-25 November 2025
 site_author: CRC 1252 "Prominence in Language"
 site_url: https://sfb1252.github.io/llm-workshop/
 
+nav:
+  - Home: index.md
+  - Speakers:
+    - "Sam Boeve": speakers/sam-boeve.md
+    - "Tatjana Scheffler": speakers/tatjana-scheffler.md
+    - "Mark Dingemanse": speakers/mark-dingemanse.md
+    - "Afra Alishahi": speakers/afra-alishahi.md
+
 theme:
   name: material
   features:

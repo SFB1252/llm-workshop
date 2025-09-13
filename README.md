@@ -1,6 +1,6 @@
 # LLM Workshop Website
 
-This repository contains the source code for the Large Language Models for Linguistic Analyses Workshop website.
+This repository contains the source code for the Large Language Models for Linguistic Analyses Workshop website, organized by CRC 1252 "Prominence in Language" at the University of Cologne.
 
 ## Workshop Details
 - **Title**: Large Language Models for Linguistic Analyses: Applications and Limitations
@@ -10,6 +10,15 @@ This repository contains the source code for the Large Language Models for Lingu
 
 ## Live Site
 The website is automatically deployed to: https://sfb1252.github.io/llm-workshop/
+
+## New Features
+The website now includes detailed speaker pages with abstracts and biographies:
+- Sam Boeve
+- Tatjana Scheffler
+- Mark Dingemanse
+- Afra Alishahi
+
+Each speaker page can be accessed from the main page and contains information about their talk and background.
 
 ## Local Development
 
@@ -35,6 +44,7 @@ python -m mkdocs build
 
 ## Project Structure
 - `docs/` - Markdown source files
+  - `docs/speakers/` - Individual speaker pages
 - `mkdocs.yml` - Site configuration
 - `.github/workflows/` - GitHub Actions for deployment
 

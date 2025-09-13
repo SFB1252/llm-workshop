@@ -19,19 +19,19 @@ Two important applications of LLMs include using LLMs as tools for linguistic re
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <div style="text-align: center;">
     <img src="assets/scheffer.jpg" alt="Tatjana Scheffler" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-    <p><strong>Tatjana Scheffler</strong><br>Ruhr University Bochum</p>
+    <p><strong>Tatjana Scheffler</strong><br>Ruhr University Bochum<br><a href="speakers/tatjana-scheffler.html">More Info</a> | <a href="https://tscheffler.github.io/">Homepage</a></p>
   </div>
   <div style="text-align: center;">
     <img src="assets/dingemanse-mark-2020-nobg-gradient.jpg" alt="Mark Dingemanse" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-    <p><strong>Mark Dingemanse</strong><br>Radboud University Nijmegen</p>
+    <p><strong>Mark Dingemanse</strong><br>Radboud University Nijmegen<br><a href="speakers/mark-dingemanse.html">More Info</a> | <a href="https://markdingemanse.net/">Homepage</a></p>
   </div>
   <div style="text-align: center;">
     <img src="assets/afra.JPG" alt="Afra Alishahi" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-    <p><strong>Afra Alishahi</strong><br>Tilburg University</p>
+    <p><strong>Afra Alishahi</strong><br>Tilburg University<br><a href="speakers/afra-alishahi.html">More Info</a> | <a href="https://afra.alishahi.name/">Homepage</a></p>
   </div>
   <div style="text-align: center;">
     <img src="assets/Sam-Boeve-1966441941.jpg" alt="Sam Boeve" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-    <p><strong>Sam Boeve</strong><br>University of Ghent</p>
+    <p><strong>Sam Boeve</strong><br>University of Ghent<br><a href="speakers/sam-boeve.html">More Info</a> | <a href="https://research.ugent.be/web/person/sam-boeve-0/en">Homepage</a></p>
   </div>
 </div>
 
@@ -89,16 +89,16 @@ If you encounter any issues or need assistance, please contact: job.schepens@uni
 ### Day 1: Monday, November 24, 2025
 
 - **11:30 - 12:30**: LLMs 101
-  Speaker: Prof. Dr. Nils Reiter (University of Cologne)
+  Speaker: <a href="https://nilsreiter.de/">Prof. Dr. Nils Reiter</a> (University of Cologne)
 
 - **14:00 - 14:05**: Welcome & Workshop Overview
   Organizers
 
 - **14:05 - 14:50**: Talk 1
-  Speaker: Prof. Dr. Tatjana Scheffler (Ruhr University Bochum)
+  Speaker: <a href="speakers/tatjana-scheffler.html">Prof. Dr. Tatjana Scheffler</a> (Ruhr University Bochum)
 
 - **14:50 - 15:35**: Talk 2
-  Speaker: Prof. Dr. Mark Dingemanse (Radboud University Nijmegen)
+  Speaker: <a href="speakers/mark-dingemanse.html">Prof. Dr. Mark Dingemanse</a> (Radboud University Nijmegen)
 
 - **15:45 - 17:30**: Poster Session & Networking
   * Poster Teasers (2-minute presentations)
@@ -109,13 +109,13 @@ If you encounter any issues or need assistance, please contact: job.schepens@uni
 ### Day 2: Tuesday, November 25, 2025
 
 - **09:00 - 09:45**: Talk 3
-  Speaker: Dr. Afra Alishahi (Tilburg University)
+  Speaker: <a href="speakers/afra-alishahi.html">Dr. Afra Alishahi</a> (Tilburg University)
 
 - **09:45 - 10:30**: Talk 4
-  Speaker: Sam Boeve (University of Ghent)
+  Speaker: <a href="speakers/sam-boeve.html">Sam Boeve</a> (University of Ghent)
 
 - **11:00 - 12:15**: Panel: Critical Perspectives on Ethics, Bias, and Responsible AI in Linguistics
-  Panelists: Sam Boeve, Mark Dingemanse, Tatjana Scheffler, Afra Alishahi, Elen Le Foll (Moderation)
+  Panelists: <a href="speakers/sam-boeve.html">Sam Boeve</a>, <a href="speakers/mark-dingemanse.html">Mark Dingemanse</a>, <a href="speakers/tatjana-scheffler.html">Tatjana Scheffler</a>, <a href="speakers/afra-alishahi.html">Afra Alishahi</a>, <a href="https://elenlefoll.eu/">Elen Le Foll</a> (Moderation)
 
 - **12:15 - 12:30**: Open Discussion with Audience
 
@@ -132,7 +132,7 @@ We are committed to creating an inclusive and collaborative environment. If you 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <div style="text-align: center;">
     <img src="assets/elenlefoll.jpg" alt="Elen Le Foll" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-    <p><strong>Elen Le Foll</strong><br>University of Cologne</p>
+    <p><strong>Elen Le Foll</strong><br>University of Cologne<br><a href="https://elenlefoll.eu/">Homepage</a></p>
   </div>
   <div style="text-align: center;">
     <img src="assets/Job-Schepens-2-2527910669.jpg" alt="Job Schepens" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
@@ -144,7 +144,7 @@ We are committed to creating an inclusive and collaborative environment. If you 
   </div>
   <div style="text-align: center;">
     <img src="assets/nilsreiter.jpg" alt="Nils Reiter" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-    <p><strong>Nils Reiter</strong><br>University of Cologne</p>
+    <p><strong>Nils Reiter</strong><br>University of Cologne<br><a href="https://nilsreiter.de/">Homepage</a></p>
   </div>
 </div>
 
