@@ -1,4 +1,6 @@
 # Large Language Models for Linguistic Analyses
+![CRC 1252 Logo](assets/Logo_Promince_in_Language.png)
+
 
 **Workshop: Applications and Limitations**  
 **24–25 November 2025 | University of Cologne**
