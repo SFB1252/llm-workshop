@@ -113,7 +113,7 @@ If you encounter any issues or need assistance, please contact: job.schepens@uni
   Speaker: <a href="https://afra.alishahi.name/">Dr. Afra Alishahi</a> (Tilburg University)
   <a href="speakers/afra-alishahi/#abstract">Abstract</a> | <a href="https://afra.alishahi.name/">CV</a>
 
-- **09:45 - 10:30**: Talk 4
+- **09:45 - 10:30**: "From Tool to Theory: LLMs in Psycholinguistics"
   Speaker: <a href="https://research.ugent.be/web/person/sam-boeve-0/en">Sam Boeve</a> (University of Ghent)
   <a href="speakers/sam-boeve/#abstract">Abstract</a> | <a href="https://research.ugent.be/web/person/sam-boeve-0/en">CV</a>
 
