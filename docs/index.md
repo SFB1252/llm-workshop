@@ -12,6 +12,46 @@ Two important applications of LLMs include using LLMs as tools for linguistic re
 We have invited 4 speakers from computational linguistics, psycholinguistics, and digital humanities. They bring in expertise on psycholinguistic evaluation methods (Sam Boeve), transformer limitations and theoretical foundations (Afra Alishahi), reproducibility (Mark Dingemanse), and corpus linguistics (Tatjana Scheffler).
 
 
+## Organizers
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <div style="text-align: center;">
+    <img src="assets/nilsreiter.jpg" alt="Nils Reiter" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
+    <p><strong>Nils Reiter</strong><br>University of Cologne</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="assets/elenlefoll.jpg" alt="Elen Le Foll" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
+    <p><strong>Elen Le Foll</strong><br>University of Cologne</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="assets/Job-Schepens-2-2527910669.jpg" alt="Job Schepens" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
+    <p><strong>Job Schepens</strong><br>University of Cologne</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="assets/markellison.jpg" alt="Mark Ellison" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
+    <p><strong>Mark Ellison</strong><br>University of Cologne</p>
+  </div>
+</div>
+
+## Invited Speakers
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <div style="text-align: center;">
+    <img src="assets/scheffer.jpg" alt="Tatjana Scheffler" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
+    <p><strong>Tatjana Scheffler</strong><br>Ruhr University Bochum</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="assets/dingemanse-mark-2020-nobg-gradient.jpg" alt="Mark Dingemanse" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
+    <p><strong>Mark Dingemanse</strong><br>Radboud University Nijmegen</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="assets/afra.JPG" alt="Afra Alishahi" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
+    <p><strong>Afra Alishahi</strong><br>Tilburg University</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="assets/Sam-Boeve-1966441941.jpg" alt="Sam Boeve" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
+    <p><strong>Sam Boeve</strong><br>University of Ghent</p>
+  </div>
+</div>
+
 ## Important Dates
 - Call for Posters: Open until October 10, 2025
 - Workshop: November 24-25, 2025
