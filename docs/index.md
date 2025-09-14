@@ -15,6 +15,7 @@ Two important applications of LLMs include using LLMs as tools for linguistic re
 
 ## Important Dates
 - Call for Posters: Open until October 10, 2025
+- Registration: Open until October 10, 2025
 - Workshop: November 24-25, 2025
 
 ## Invited Speakers
@@ -44,9 +45,9 @@ Two important applications of LLMs include using LLMs as tools for linguistic re
 **24–25 November 2025 | University of Cologne**
 
 
-The workshop is designed around a central poster session to exchange ideas and discussion. We explicitly invite submissions from students and researchers across all career stages. We are also explicitly welcoming posters that present work in progress and new ideas. There will not be a formal review process.
+The workshop is designed around a central poster session to exchange ideas and discussion. We explicitly invite submissions from students and researchers across all career stages. We also explicitly welcome posters that present work in progress and new ideas. 
 
-We invite poster submissions on any topic related to the use of LLMs in language and cognitive sciences, including but not limited to:
+We invite poster submissions on any topic related to the use of LLMs in the language and cognitive sciences, including but not limited to:
 
 - Methodological and theoretical challenges: e.g. reproducibility, good research and open science practices, evaluating LLM output.
 - Cognitive and psycholinguistic implications of LLM-based language processing.
@@ -57,6 +58,8 @@ We invite poster submissions on any topic related to the use of LLMs in language
 - Using LLMs for studying cognitive and linguistic phenomena such as prominence.
 
 To present a poster, please submit a title by **October 10, 2025** using [this registration form](https://survey.uni-koeln.de/index.php/612595?lang=en).
+
+We also ask all participants to register by **October 10, 2025** using [this registration form](https://survey.uni-koeln.de/index.php/612595?lang=en).
 
 This workshop is organized by the **Collaborative Research Center (CRC) 1252 "Prominence in Language"** at the University of Cologne. We are committed to creating an inclusive and collaborative environment.
 
@@ -87,7 +90,7 @@ If you encounter any issues or need assistance, please contact: job.schepens@uni
 
 ### Day 1: Monday, November 24, 2025
 
-- **11:30 - 12:30**: LLMs 101
+- **11:30 - 12:30**: An Introduction to Large Language Models: LLMs 101
   Speaker: <a href="https://nilsreiter.de/">Prof. Dr. Nils Reiter</a> (University of Cologne)
 
 - **14:00 - 14:05**: Welcome & Workshop Overview
