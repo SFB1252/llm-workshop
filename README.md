@@ -12,11 +12,10 @@ This repository contains the source code for the Large Language Models for Lingu
 The website is automatically deployed to: https://sfb1252.github.io/llm-workshop/
 
 ## New Features
-The website now includes detailed speaker pages with abstracts and biographies:
+The website now includes speaker pages with abstracts and biographies:
 - Sam Boeve
 - Tatjana Scheffler
 - Mark Dingemanse
-- Afra Alishahi
 
 Each speaker page can be accessed from the main page and contains information about their talk and background.
 
