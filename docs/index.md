@@ -94,11 +94,11 @@ If you encounter any issues or need assistance, please contact: job.schepens@uni
 
 - **14:05 - 14:50**: Talk 1
   Speaker: <a href="https://tscheffler.github.io/">Prof. Dr. Tatjana Scheffler</a> (Ruhr University Bochum)
-  <a href="speakers/tatjana-scheffler/#abstract">Abstract</a> | <a href="https://tscheffler.github.io/">CV</a>
+  <a href="speakers/tatjana-scheffler">Abstract</a> | <a href="https://tscheffler.github.io/">CV</a>
 
 - **14:50 - 15:35**: Talk 2
   Speaker: <a href="https://markdingemanse.net/">Prof. Dr. Mark Dingemanse</a> (Radboud University Nijmegen)
-  <a href="speakers/mark-dingemanse/#abstract">Abstract</a> | <a href="https://markdingemanse.net/">CV</a>
+  <a href="speakers/mark-dingemanse">Abstract</a> | <a href="https://markdingemanse.net/">CV</a>
 
 - **15:45 - 17:30**: Poster Session & Networking
   * Poster Teasers (2-minute presentations)
@@ -113,7 +113,7 @@ If you encounter any issues or need assistance, please contact: job.schepens@uni
 
 - **09:45 - 10:30**: "From Tool to Theory: LLMs in Psycholinguistics"
   Speaker: <a href="https://research.ugent.be/web/person/sam-boeve-0/en">Sam Boeve</a> (University of Ghent)
-  <a href="speakers/sam-boeve/#abstract">Abstract</a> | <a href="https://research.ugent.be/web/person/sam-boeve-0/en">CV</a>
+  <a href="speakers/sam-boeve">Abstract</a> | <a href="https://research.ugent.be/web/person/sam-boeve-0/en">CV</a>
 
 - **11:00 - 12:15**: Panel: Critical Perspectives on Ethics, Bias, and Responsible AI in Linguistics
   Panelists: <a href="https://research.ugent.be/web/person/sam-boeve-0/en">Sam Boeve</a>, <a href="https://markdingemanse.net/">Mark Dingemanse</a>, <a href="https://tscheffler.github.io/">Tatjana Scheffler</a>, <a href="https://elenlefoll.eu/">Elen Le Foll</a> (Moderation)
