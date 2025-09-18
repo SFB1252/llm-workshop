@@ -9,7 +9,6 @@ nav:
     - "Sam Boeve": speakers/sam-boeve.md
     - "Tatjana Scheffler": speakers/tatjana-scheffler.md
     - "Mark Dingemanse": speakers/mark-dingemanse.md
-    - "Afra Alishahi": speakers/afra-alishahi.md
 
 theme:
   name: material
