@@ -28,10 +28,10 @@ Two important applications of LLMs include using LLMs as tools for linguistic re
     <img src="assets/dingemanse-mark-2020-nobg-gradient.jpg" alt="Mark Dingemanse" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
     <p><strong>Mark Dingemanse</strong><br>Radboud University Nijmegen<br><a href="https://markdingemanse.net/">Homepage</a></p>
   </div>
-  <div style="text-align: center;">
-    <img src="assets/afra.JPG" alt="Afra Alishahi" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-    <p><strong>Afra Alishahi</strong><br>Tilburg University<br><a href="https://afra.alishahi.name/">Homepage</a></p>
-  </div>
+  #<div style="text-align: center;">
+   # <img src="assets/afra.JPG" alt="Afra Alishahi" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
+    #<p><strong>Afra Alishahi</strong><br>Tilburg University<br><a href="https://afra.alishahi.name/">Homepage</a></p>
+ # </div>
   <div style="text-align: center;">
     <img src="assets/Sam-Boeve-1966441941.jpg" alt="Sam Bovee" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
     <p><strong>Sam Bovee</strong><br>University of Ghent<br><a href="https://research.ugent.be/web/person/sam-boeve-0/en">Homepage</a></p>
@@ -113,15 +113,14 @@ If you encounter any issues or need assistance, please contact: job.schepens@uni
 ### Day 2: Tuesday, November 25, 2025
 
 - **09:00 - 09:45**: Talk 3
-  Speaker: <a href="https://afra.alishahi.name/">Dr. Afra Alishahi</a> (Tilburg University)
-  <a href="speakers/afra-alishahi/#abstract">Abstract</a> | <a href="https://afra.alishahi.name/">CV</a>
+  Speaker: tbc
 
 - **09:45 - 10:30**: "From Tool to Theory: LLMs in Psycholinguistics"
   Speaker: <a href="https://research.ugent.be/web/person/sam-boeve-0/en">Sam Boeve</a> (University of Ghent)
   <a href="speakers/sam-boeve/#abstract">Abstract</a> | <a href="https://research.ugent.be/web/person/sam-boeve-0/en">CV</a>
 
 - **11:00 - 12:15**: Panel: Critical Perspectives on Ethics, Bias, and Responsible AI in Linguistics
-  Panelists: <a href="https://research.ugent.be/web/person/sam-boeve-0/en">Sam Boeve</a>, <a href="https://markdingemanse.net/">Mark Dingemanse</a>, <a href="https://tscheffler.github.io/">Tatjana Scheffler</a>, <a href="https://afra.alishahi.name/">Afra Alishahi</a>, <a href="https://elenlefoll.eu/">Elen Le Foll</a> (Moderation)
+  Panelists: <a href="https://research.ugent.be/web/person/sam-boeve-0/en">Sam Boeve</a>, <a href="https://markdingemanse.net/">Mark Dingemanse</a>, <a href="https://tscheffler.github.io/">Tatjana Scheffler</a>, <a href="https://elenlefoll.eu/">Elen Le Foll</a> (Moderation)
 
 - **12:15 - 12:30**: Open Discussion with Audience
 
