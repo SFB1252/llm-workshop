@@ -86,18 +86,18 @@ If you encounter any issues or need assistance, please contact: job.schepens@uni
 
 ### Day 1: Monday, November 24, 2025
 
-- **11:30 - 12:30**: An Introduction to Large Language Models: LLMs 101
+- **11:30 - 12:30**: An Introduction to Large Language Models: LLMs 101  
   Speaker: <a href="https://nilsreiter.de/">Prof. Dr. Nils Reiter</a> (University of Cologne)
 
 - **14:00 - 14:05**: Welcome & Workshop Overview
   Organizers
 
 - **14:05 - 14:50**: Talk 1  
-  Speaker: <a href="https://tscheffler.github.io/">Prof. Dr. Tatjana Scheffler</a> (Ruhr University Bochum)
+  Speaker: <a href="https://tscheffler.github.io/">Prof. Dr. Tatjana Scheffler</a> (Ruhr University Bochum) |
   <a href="speakers/tatjana-scheffler">Abstract</a> | <a href="https://tscheffler.github.io/">Homepage</a>
 
 - **14:50 - 15:35**: Talk 2: "What makes LLMs so irresistible?"  
-  Speaker: <a href="https://markdingemanse.net/">Prof. Dr. Mark Dingemanse</a> (Radboud University Nijmegen)
+  Speaker: <a href="https://markdingemanse.net/">Prof. Dr. Mark Dingemanse</a> (Radboud University Nijmegen) |
   <a href="speakers/mark-dingemanse">Abstract</a> | <a href="https://markdingemanse.net/">Homepage</a>
 
 - **15:45 - 17:30**: Poster Session & Networking  
@@ -112,7 +112,7 @@ If you encounter any issues or need assistance, please contact: job.schepens@uni
   Speaker: tbc
 
 - **09:45 - 10:30**: Talk 4: "From Tool to Theory: LLMs in Psycholinguistics"  
-  Speaker: <a href="https://research.ugent.be/web/person/sam-boeve-0/en">Sam Boeve</a> (University of Ghent)
+  Speaker: <a href="https://research.ugent.be/web/person/sam-boeve-0/en">Sam Boeve</a> (University of Ghent) |
   <a href="speakers/sam-boeve">Abstract</a> | <a href="https://research.ugent.be/web/person/sam-boeve-0/en">Homepage</a>
 
 - **11:00 - 12:15**: Panel: Critical Perspectives on Ethics, Bias, and Responsible AI in Linguistics  
