@@ -29,8 +29,12 @@ Two important applications of LLMs include using LLMs as tools for linguistic re
     <p><strong>Mark Dingemanse</strong><br>Radboud University Nijmegen<br><a href="https://markdingemanse.net/">Homepage</a></p>
   </div>
   <div style="text-align: center;">
-    <img src="assets/Sam-Boeve-1966441941.jpg" alt="Sam Bovee" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-    <p><strong>Sam Bovee</strong><br>University of Ghent<br><a href="https://research.ugent.be/web/person/sam-boeve-0/en">Homepage</a></p>
+    <img src="assets/Sam-Boeve-1966441941.jpg" alt="Sam Boeve" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
+    <p><strong>Sam Boeve</strong><br>University of Ghent<br><a href="https://research.ugent.be/web/person/sam-boeve-0/en">Homepage</a></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="assets/illc-foto.jpg" alt="Charlotte Pouw" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
+    <p><strong>Charlotte Pouw</strong><br>University of Amsterdam<br><a href="https://www.illc.uva.nl/People/Table/person/5440/Charlotte-Pouw">Homepage</a></p>
   </div>
 </div>
 
@@ -109,7 +113,8 @@ If you encounter any issues or need assistance, please contact: job.schepens@uni
 ### Day 2: Tuesday, November 25, 2025
 
 - **09:00 - 09:45**: Talk 3
-  Speaker: tbc
+  Speaker: <a href="https://www.illc.uva.nl/People/Table/person/5440/Charlotte-Pouw">Charlotte Pouw</a> (University of Amsterdam) |
+  <a href="speakers/charlotte-pouw">Abstract</a> | <a href="https://www.illc.uva.nl/People/Table/person/5440/Charlotte-Pouw">Homepage</a>
 
 - **09:45 - 10:30**: Talk 4: "From Tool to Theory: LLMs in Psycholinguistics"  
   Speaker: <a href="https://research.ugent.be/web/person/sam-boeve-0/en">Sam Boeve</a> (University of Ghent) |

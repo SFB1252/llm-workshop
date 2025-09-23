@@ -16,6 +16,7 @@ The website now includes speaker pages with abstracts and biographies:
 - Sam Boeve
 - Tatjana Scheffler
 - Mark Dingemanse
+- Charlotte Pouw
 
 Each speaker page can be accessed from the main page and contains information about their talk and background.
 
