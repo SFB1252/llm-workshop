@@ -57,9 +57,9 @@ We invite poster submissions on any topic related to the use of LLMs in the lang
 - Using LLMs for automatic stimulus generation or data augmentation.
 - Using LLMs for studying cognitive and linguistic phenomena such as prominence.
 
-To present a poster, please submit a title by **October 10, 2025** using [this registration form](https://survey.uni-koeln.de/index.php/612595?lang=en).
+To present a poster, please submit a title by **October 10, 2025** using the registration form below.
 
-We also ask all participants to register by **October 10, 2025** using [this registration form](https://survey.uni-koeln.de/index.php/612595?lang=en).
+We also ask all participants to register by **October 10, 2025** using the same registration form below.
 
 This workshop is organized by the **Collaborative Research Center (CRC) 1252 "Prominence in Language"** at the University of Cologne. We are committed to creating an inclusive and collaborative environment.
 
