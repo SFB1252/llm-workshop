@@ -15,7 +15,7 @@ Two important applications of LLMs include using LLMs as tools for linguistic re
 
 ## Important Dates
 - Call for Posters: Open until October 10, 2025
-- Registration: Open until October 10, 2025
+- Registration: Open until October 15, 2025
 - Workshop: November 24-25, 2025
 
 ## Invited Speakers
@@ -57,9 +57,9 @@ We invite poster submissions on any topic related to the use of LLMs in the lang
 - Using LLMs for automatic stimulus generation or data augmentation.
 - Using LLMs for studying cognitive and linguistic phenomena such as prominence.
 
-To present a poster, please submit a title by **October 10, 2025** using the registration form below.
+To present a poster, please submit a title by **October 15, 2025** using the registration form below.
 
-We also ask all participants to register by **October 10, 2025** using the same registration form below.
+We also ask all participants to register by **October 15, 2025** using the same registration form below.
 
 This workshop is organized by the **Collaborative Research Center (CRC) 1252 "Prominence in Language"** at the University of Cologne. We are committed to creating an inclusive and collaborative environment.
 
@@ -76,7 +76,7 @@ Registration is handled through a survey.uni-koeln form.
 
 [Register for the Workshop](https://survey.uni-koeln.de/index.php/612595?lang=en)
 
-- **Deadline**: October 10, 2025
+- **Deadline**: October 15, 2025
 - **Fee**: Free (funded by CRC 1252)
 - **Location**: University of Cologne, Seminar Building
 
@@ -117,7 +117,7 @@ If you encounter any issues or need assistance, please contact: job.schepens@uni
   <a href="speakers/charlotte-pouw">Abstract</a> | <a href="https://www.illc.uva.nl/People/Table/person/5440/Charlotte-Pouw">Homepage</a>
 
 - **09:45 - 10:30**: Talk 4: "From Tool to Theory: LLMs in Psycholinguistics"  
-  Speaker: <a href="https://research.ugent.be/web/person/sam-boeve-0/en">Sam Boeve</a> (University of Ghent) |
+  Speaker: <a href="https://research.ugent.be/web/person/sam-boeve-0/en">Sam Boeve</a> (Ghent University) |
   <a href="speakers/sam-boeve">Abstract</a> | <a href="https://research.ugent.be/web/person/sam-boeve-0/en">Homepage</a>
 
 - **11:00 - 12:15**: Panel: Critical Perspectives on Ethics, Bias, and Responsible AI in Linguistics  
