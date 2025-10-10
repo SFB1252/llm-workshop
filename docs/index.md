@@ -14,7 +14,7 @@ Two important applications of LLMs include using LLMs as tools for linguistic re
 
 
 ## Important Dates
-- Call for Posters: Open until October 10, 2025
+- Call for Posters: Open until October 15, 2025
 - Registration: Open until October 15, 2025
 - Workshop: November 24-25, 2025
 
