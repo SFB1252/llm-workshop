@@ -1,6 +1,6 @@
 # Sam Boeve
 
-University of Ghent
+Ghent University
 
 [Homepage](https://research.ugent.be/web/person/sam-boeve-0/en)
 
