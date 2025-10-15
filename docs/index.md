@@ -22,7 +22,7 @@ Two important applications of LLMs include using LLMs as tools for linguistic re
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <div style="text-align: center;">
     <img src="assets/scheffer.jpg" alt="Tatjana Scheffler" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
-    <p><strong>Tatjana Scheffler</strong><br>Ruhr University Bochum<br><a href="https://tscheffler.github.io/">Homepage</a></p>
+    <p><strong>Tatjana Scheffler</strong><br>Ruhr University Bochum<br><a href="http://staff.germanistik.rub.de/digitale-forensische-linguistik/">Homepage</a></p>
   </div>
   <div style="text-align: center;">
     <img src="assets/dingemanse-mark-2020-nobg-gradient.jpg" alt="Mark Dingemanse" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
@@ -97,8 +97,8 @@ If you encounter any issues or need assistance, please contact: job.schepens@uni
   Organizers
 
 - **14:05 - 14:50**: Talk 1  
-  Speaker: <a href="https://tscheffler.github.io/">Prof. Dr. Tatjana Scheffler</a> (Ruhr University Bochum) |
-  <a href="speakers/tatjana-scheffler">Abstract</a> | <a href="https://tscheffler.github.io/">Homepage</a>
+  Speaker: <a href="[https://tscheffler.github.io/](http://staff.germanistik.rub.de/digitale-forensische-linguistik/)">Prof. Dr. Tatjana Scheffler</a> (Ruhr University Bochum) |
+  <a href="speakers/tatjana-scheffler">Abstract</a> | <a href="[https://tscheffler.github.io](http://staff.germanistik.rub.de/digitale-forensische-linguistik/)/">Homepage</a>
 
 - **14:50 - 15:35**: Talk 2: "What makes LLMs so irresistible?"  
   Speaker: <a href="https://markdingemanse.net/">Prof. Dr. Mark Dingemanse</a> (Radboud University Nijmegen) |
