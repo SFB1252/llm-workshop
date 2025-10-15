@@ -97,8 +97,8 @@ If you encounter any issues or need assistance, please contact: job.schepens@uni
   Organizers
 
 - **14:05 - 14:50**: Talk 1  
-  Speaker: <a href="[https://tscheffler.github.io/](http://staff.germanistik.rub.de/digitale-forensische-linguistik/)">Prof. Dr. Tatjana Scheffler</a> (Ruhr University Bochum) |
-  <a href="speakers/tatjana-scheffler">Abstract</a> | <a href="[https://tscheffler.github.io](http://staff.germanistik.rub.de/digitale-forensische-linguistik/)/">Homepage</a>
+  Speaker: <a href="http://staff.germanistik.rub.de/digitale-forensische-linguistik/">Prof. Dr. Tatjana Scheffler</a> (Ruhr University Bochum) |
+  <a href="speakers/tatjana-scheffler">Abstract</a> | <a href="http://staff.germanistik.rub.de/digitale-forensische-linguistik/">Homepage</a>
 
 - **14:50 - 15:35**: Talk 2: "What makes LLMs so irresistible?"  
   Speaker: <a href="https://markdingemanse.net/">Prof. Dr. Mark Dingemanse</a> (Radboud University Nijmegen) |
