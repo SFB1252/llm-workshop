@@ -96,7 +96,7 @@ If you encounter any issues or need assistance, please contact: job.schepens@uni
 - **14:00 - 14:05**: Welcome & Workshop Overview
   Organizers
 
-- **14:05 - 14:50**: Talk 1  
+- **14:05 - 14:50**: Talk 1: "Linguistic analysis with LLMs? The case of discourse and pragmatics"  
   Speaker: <a href="http://staff.germanistik.rub.de/digitale-forensische-linguistik/">Prof. Dr. Tatjana Scheffler</a> (Ruhr University Bochum) |
   <a href="speakers/tatjana-scheffler">Abstract</a> | <a href="http://staff.germanistik.rub.de/digitale-forensische-linguistik/">Homepage</a>
 
@@ -112,7 +112,7 @@ If you encounter any issues or need assistance, please contact: job.schepens@uni
 
 ### Day 2: Tuesday, November 25, 2025
 
-- **09:00 - 09:45**: Talk 3
+- **09:00 - 09:45**: Talk 3: "Interpreting models for speech generation and understanding using methods from psycholinguistics"
   Speaker: <a href="https://www.illc.uva.nl/People/Table/person/5440/Charlotte-Pouw">Charlotte Pouw</a> (University of Amsterdam) |
   <a href="speakers/charlotte-pouw">Abstract</a> | <a href="https://www.illc.uva.nl/People/Table/person/5440/Charlotte-Pouw">Homepage</a>
 
