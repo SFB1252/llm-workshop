@@ -94,13 +94,8 @@ We look forward to seeing you!
 - **"The written language bias in automatic transcription"**  
   *Eva Windbergs* (University of Cologne, Department of Linguistics)
 
-- **""Can Large Language Models (LLMs) Describe Pictures Like Children? A Comparative Corpus Study" "**  
-  *Hanna Woloszyn* (University of Cologne )
-
-
-
-
-
+- **"Can Large Language Models (LLMs) Describe Pictures Like Children? A Comparative Corpus Study"**  
+  *Hanna Woloszyn* (University of Cologne)
 
 ## Registration
 
