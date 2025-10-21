@@ -65,6 +65,40 @@ This workshop is organized by the **Collaborative Research Center (CRC) 1252 "Pr
 
 We look forward to seeing you!
 
+## Poster Presentations
+
+- **"Investigating linguistic alignment with behaviourally modified chatbots: Design and exploratory analyses"**  
+  *Paul Compensis* (University of Bamberg, Institute of Psychology)
+
+- **"Using LLMs to determine the combinatorial semantics of Spanish adjective-noun collocations"**  
+  *Eric Engel* (University of Cologne, Department of Romance Studies)
+
+- **"Simulating Human Judgments: The Potential of LLMs in Linguistic Experiments on Prominence"**  
+  *Jürgen Hermes* (University of Cologne, Department of Digital Humanities)
+
+- **"Cross-linguistic comparisons of children’s linguistic input using language models"**  
+  *Eva Huber* (University of Cologne, Department of Linguistics)
+
+- **"Bias in Large Language Models: Investigating Morphosyntactic Features of African American English and Indian English"**  
+  *Rose Hörsting* (University of Cologne)
+
+- **"Referential choice in direct speech: Replicating an experiment with an LLM"**  
+  *Katja Jasinskaja* (University of Cologne, IdSL I)
+
+- **"Neural Modelling: Can We Map Human Cognition onto (and with) an LLM?"**  
+  *Ahmet Şadan Kutay Kendirli* (University of Cologne Linguistics (MA))
+
+- **"Scaling behavior in LLMs as tools for modeling human word and sentence processing"**  
+  *Job Schepens* (University of Cologne, Digital Humanities)
+
+- **"The written language bias in automatic transcription"**  
+  *Eva Windbergs* (University of Cologne, Department of Linguistics)
+
+- **""Can Large Language Models (LLMs) Describe Pictures Like Children? A Comparative Corpus Study" "**  
+  *Hanna Woloszyn* (University of Cologne )
+
+
+
 
 
 
@@ -119,6 +153,8 @@ If you encounter any issues or need assistance, please contact: job.schepens@uni
 - **09:45 - 10:30**: Talk 4: "From Tool to Theory: LLMs in Psycholinguistics"  
   Speaker: <a href="https://research.ugent.be/web/person/sam-boeve-0/en">Sam Boeve</a> (Ghent University) |
   <a href="speakers/sam-boeve">Abstract</a> | <a href="https://research.ugent.be/web/person/sam-boeve-0/en">Homepage</a>
+
+- **10:30 - 11:00**: Coffee Break
 
 - **11:00 - 12:15**: Panel: Critical Perspectives on Ethics, Bias, and Responsible AI in Linguistics  
   Panelists: <a href="https://research.ugent.be/web/person/sam-boeve-0/en">Sam Boeve</a>, <a href="https://markdingemanse.net/">Mark Dingemanse</a>, <a href="https://tscheffler.github.io/">Tatjana Scheffler</a>, <a href="https://elenlefoll.eu/">Elen Le Foll</a> (Moderation)
