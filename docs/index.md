@@ -125,7 +125,7 @@ Registration is handled through a survey.uni-koeln form.
 
 - **Deadline**: October 15, 2025
 - **Fee**: Free (funded by CRC 1252)
-- **Location**: University of Cologne, Seminar Building
+- **Location**: University of Cologne, Neue Senaatssaal, Albertus-Magnus-Platz, 50923 Köln, Germany
 
 For poster submissions, use the same form and indicate your interest in presenting.
 
