@@ -133,11 +133,11 @@ If you encounter any issues or need assistance, please contact: job.schepens@uni
   Speaker: <a href="https://markdingemanse.net/">Prof. Dr. Mark Dingemanse</a> (Radboud University Nijmegen) |
   <a href="speakers/mark-dingemanse">Abstract</a> | <a href="https://markdingemanse.net/">Homepage</a>
 
-- **15:45 - 17:30**: Poster Session & Networking  
+- **15:45 - 17:30**: Poster Session & Networking 
   * Poster Teasers (2-minute presentations)
   * Interactive Poster Session with Coffee and Snacks
 
-- **19:00 - 21:30**: Workshop Dinner
+- **19:00 - 21:30**: Workshop Dinner in <a href="https://balthasar-cafe.de/">Cafe Balthasar</a>
 
 ### Day 2: Tuesday, November 25, 2025
 
