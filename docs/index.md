@@ -67,11 +67,17 @@ We look forward to seeing you!
 
 ## Poster Presentations
 
+- **"Triangulating Related-Language Models for Assisted Transcription in Low-Resource Languages (co-author: Mark Ellison)"**  
+  *Amalia Canes-Nápoles* (University of Cologne, Institute für romanische Sprachen und Literaturen, Institut für deutsche Sprache und Literatur I)
+
 - **"Investigating linguistic alignment with behaviourally modified chatbots: Design and exploratory analyses"**  
   *Paul Compensis* (University of Bamberg, Institute of Psychology)
 
 - **"Using LLMs to determine the combinatorial semantics of Spanish adjective-noun collocations"**  
   *Eric Engel* (University of Cologne, Department of Romance Studies)
+
+- **"Who is the Pronoun Pro? Comparing LLMs and trained human annotators in pronoun resolution."**  
+  *Carlos Hartmann* (Universität Zürich)
 
 - **"Simulating Human Judgments: The Potential of LLMs in Linguistic Experiments on Prominence"**  
   *Jürgen Hermes* (University of Cologne, Department of Digital Humanities)
@@ -82,20 +88,32 @@ We look forward to seeing you!
 - **"Bias in Large Language Models: Investigating Morphosyntactic Features of African American English and Indian English"**  
   *Rose Hörsting* (University of Cologne)
 
+- **"Genus-sexus congruence in machine translation: DeepL’s pronominal resumption of ‘das Mädchen’"**  
+  *Tiziana Ilie* (University of Cologne, Romance Dept., Dept. of Linguistics) (collab. with Dr. Elen Le Foll)
+
 - **"Referential choice in direct speech: Replicating an experiment with an LLM"**  
   *Katja Jasinskaja* (University of Cologne, IdSL I)
 
 - **"Neural Modelling: Can We Map Human Cognition onto (and with) an LLM?"**  
-  *Ahmet Şadan Kutay Kendirli* (University of Cologne Linguistics (MA))
+  *Ahmet Şadan Kutay Kendirli* (University of Cologne, Linguistics (MA))
 
-- **"Scaling behavior in LLMs as tools for modeling human word and sentence processing"**  
-  *Job Schepens* (University of Cologne, Digital Humanities)
+- **"Detecting Gender Bias in Transformer Embeddings: A Systematic Review"**  
+  *Eirik Lidsheim Erdal* (Radboud University, Centre for Language Studies)
+
+- **"Using Large Language Models to Perform MIPVU-Inspired Automatic Metaphor Detection"**  
+  *Sebastian Reimann* (Ruhr University Bochum)
+
+- **"Detecting Gender Bias in Transformer Embeddings: A Systematic Review"**  
+  *Michelle Vuong* (Goethe University Frankfurt, University of Cologne)
 
 - **"The written language bias in automatic transcription"**  
   *Eva Windbergs* (University of Cologne, Department of Linguistics)
 
 - **"Can Large Language Models (LLMs) Describe Pictures Like Children? A Comparative Corpus Study"**  
   *Hanna Woloszyn* (University of Cologne)
+
+- **"Scaling behavior in LLMs as tools for modeling human word and sentence processing"**  
+  *Job Schepens* (University of Cologne)
 
 ## Registration
 
@@ -107,7 +125,7 @@ Registration is handled through a survey.uni-koeln form.
 
 - **Deadline**: October 15, 2025
 - **Fee**: Free (funded by CRC 1252)
-- **Location**: University of Cologne, Seminar Building
+- **Location**: University of Cologne, Neue Senaatssaal, Albertus-Magnus-Platz, 50923 Köln, Germany
 
 For poster submissions, use the same form and indicate your interest in presenting.
 
