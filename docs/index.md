@@ -13,6 +13,11 @@ This workshop brings together researchers of all career stages to discuss how LL
 Two important applications of LLMs include using LLMs as tools for linguistic research and using LLMs as cognitive models of language processing. This workshop will focus on using LLMs as tools all the while acknowledging that this requires us to critically consider their cognitive and psycholinguistic plausibility. How can LLMs be used as tools for automatic annotation, text analysis, generation, etc.? What are the cognitive and psycholinguistic implications of LLM-based language processing? What biases do LLMs introduce, and how can we deal with biases in automated linguistic analyses?
 
 
+<figure markdown>
+  ![LLM Workshop Poster](assets/images/poster-llm-workshop.jpg){ width="600" }
+  <figcaption>LLM Workshop Poster - Click to enlarge</figcaption>
+</figure>
+
 ## Important Dates
 - Call for Posters: Open until October 15, 2025
 - Registration: Open until October 15, 2025
