@@ -19,6 +19,7 @@ theme:
     - toc.integrate
     - search.suggest
     - search.highlight
+    - content.action.view
   palette:
     - scheme: default
       primary: blue
@@ -27,6 +28,7 @@ theme:
 plugins:
   - search
   - git-revision-date-localized
+  - glightbox
 
 markdown_extensions:
   - toc:
