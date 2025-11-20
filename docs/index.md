@@ -115,6 +115,9 @@ We look forward to seeing you!
 - **"Scaling behavior in LLMs as tools for modeling human word and sentence processing"**  
   *Job Schepens* (University of Cologne)
 
+- **"Word Predictability in Dyslexia and Second Language Reading"**  
+  *Sam Boeve* (Ghent University)
+
 ## Registration
 
 To register for the workshop, please fill out the registration form below.
