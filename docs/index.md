@@ -181,7 +181,7 @@ If you encounter any issues or need assistance, please contact: job.schepens@uni
 - **10:30 - 11:00**: Coffee Break
 
 - **11:00 - 12:15**: Panel: Critical Perspectives on Ethics, Bias, and Responsible AI in Linguistics  
-  Panelists: <a href="https://research.ugent.be/web/person/sam-boeve-0/en">Sam Boeve</a>, <a href="https://markdingemanse.net/">Mark Dingemanse</a>, <a href="https://tscheffler.github.io/">Tatjana Scheffler</a>, <a href="https://elenlefoll.eu/">Elen Le Foll</a> (Moderation)
+  Panelists: <a href="https://research.ugent.be/web/person/sam-boeve-0/en">Sam Boeve</a>, <a href="https://markdingemanse.net/">Mark Dingemanse</a>, <a href="https://tscheffler.github.io/">Tatjana Scheffler</a>, <a href="https://www.illc.uva.nl/People/Table/person/5440/Charlotte-Pouw">Charlotte Pouw</a>, <a href="https://elenlefoll.eu/">Elen Le Foll</a> (Moderation)
 
 - **12:15 - 12:30**: Open Discussion with Audience
 
