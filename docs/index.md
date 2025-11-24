@@ -120,6 +120,9 @@ We look forward to seeing you!
 - **"Scaling behavior in LLMs as tools for modeling human word and sentence processing"**  
   *Job Schepens* (University of Cologne)
 
+- **"Are Large Language Models (LLMs) the next generation of participants in linguistic studies?"**
+  *Iris Ferrazzo* (Bonn Center for Digital Humanities and Department for Romance Linguistics, University of Bonn)
+
 - **"Word Predictability in Dyslexia and Second Language Reading"**  
   *Sam Boeve* (Ghent University)
 
